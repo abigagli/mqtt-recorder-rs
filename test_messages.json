@@ -1,0 +1,5 @@
+{ "time": 1642680000.0, "qos": 0, "retain": false, "topic": "sensors/temperature", "msg_b64": "MjIuNQ==" }
+{ "time": 1642680001.0, "qos": 4, "retain": false, "topic": "sensors/humidity", "msg_b64": "NjUuMg==" }
+{ "time": 1642680002.0, "qos": 0, "retain": false, "topic": "sensors/pressure", "msg_b64": "MTAxMy4y" }
+{ "time": 1642680003.0, "qos": 2, "retain": false, "topic": "devices/status", "msg_b64": "b25saW5l" }
+{ "time": 1642680004.0, "qos": 0, "retain": false, "topic": "alerts/warning", "msg_b64": "SGlnaCB0ZW1wZXJhdHVyZQ==" }
